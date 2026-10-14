@@ -44,11 +44,9 @@ This short story explains the survey paper:
 
 **Key concept.** Why a value is missing matters. Rubin's three mechanisms are MCAR (pure chance), MAR (depends on observed values) and MNAR (depends on the hidden value itself). MNAR is common in clinical data and is the hardest case.
 
-![Missingness mechanisms](figures/fig2_missingness_mechanisms.png)
 
 **Taxonomy.** The survey organises more than 30 deep imputers on two axes: what they output (predictive, generative, large model) and which network they use (RNN, CNN, GNN, attention, VAE, GAN, diffusion, large models).
 
-![Taxonomy](figures/fig3_taxonomy.png)
 
 | Family | Example models | Strength | Weakness |
 |---|---|---|---|
@@ -68,7 +66,6 @@ This short story explains the survey paper:
 4. Impute-then-predict discards the missingness mask; end-to-end encode-and-predict is more promising.
 5. Fair comparison needs shared tools: PyPOTS (37 imputation models) and TSI-Bench (34,804 experiments, 28 algorithms, 8 datasets).
 
-![Two pipelines](figures/fig4_two_pipelines.png)
 
 **My take.** From my work on early sepsis detection with PhysioNet 2019, lab values are missing because clinicians order them only when worried. Missingness is a clinical signal, which makes the encode-and-predict argument especially convincing.
 
