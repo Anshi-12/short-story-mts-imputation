@@ -17,8 +17,7 @@ This short story explains the survey paper:
 |---|---|
 | Medium article | [Read on Medium](https://medium.com/@anshita.apps/deep-dive-into-deep-learning-for-time-series-imputation-6f7dad5b4554) |
 | Slides (Google Slides) | [View slides](https://docs.google.com/presentation/d/1oF8cKZ2pXDeH4CORTRU-R7TJv-2ZOiTZZp-9wozYAxs/edit?usp=sharing) |
-| Video walkthrough | _add YouTube URL or upload `video/presentation.mp4` here_ |
-
+| Video walkthrough | [Watch on YouTube](https://youtu.be/zfN-qqSvUz0) |
 ## Repository structure
 
 ```
