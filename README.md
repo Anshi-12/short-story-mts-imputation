@@ -15,9 +15,8 @@ This short story explains the survey paper:
 
 | Item | Link |
 |---|---|
-| Medium article | _add your Medium URL here_ |
-| Slides (SlideShare) | _add your SlideShare URL here_ |
-| Slides (file in this repo) | [`slides/MTS_Imputation_Survey_Anshita_Shah.pptx`](slides/MTS_Imputation_Survey_Anshita_Shah.pptx) |
+| Medium article | [Read on Medium](https://medium.com/@anshita.apps/deep-dive-into-deep-learning-for-time-series-imputation-6f7dad5b4554) |
+| Slides (Google Slides) | [View slides](https://docs.google.com/presentation/d/1oF8cKZ2pXDeH4CORTRU-R7TJv-2ZOiTZZp-9wozYAxs/edit?usp=sharing) |
 | Video walkthrough | _add YouTube URL or upload `video/presentation.mp4` here_ |
 
 ## Repository structure
